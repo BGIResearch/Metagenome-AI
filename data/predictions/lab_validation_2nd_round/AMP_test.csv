@@ -1,0 +1,173 @@
+Base model,Score,Dataset,Metric
+ESM-2 (650m),93.08,AMP global,Accuracy
+ESM-2 (650m),94.86,G+,Accuracy
+ESM-2 (650m),95.56,G-,Accuracy
+ESM-2 (650m),79.55,Toxicity,Accuracy
+ESM-2 (650m),92.22,AMP global,F1-score
+ESM-2 (650m),92.02,G+,F1-score
+ESM-2 (650m),93.28,G-,F1-score
+ESM-2 (650m),78.54,Toxicity,F1-score
+ESM-2-ft,94.09,AMP global,Accuracy
+ESM-2-ft,96.32,G+,Accuracy
+ESM-2-ft,96.04,G-,Accuracy
+ESM-2-ft,82.28,Toxicity,Accuracy
+ESM-2-ft,93.34,AMP global,F1-score
+ESM-2-ft,94.34,G+,F1-score
+ESM-2-ft,94.08,G-,F1-score
+ESM-2-ft,81.7,Toxicity,F1-score
+ESM2-3B,96.87,G-,Accuracy
+ESM2-3B,95.31,G-,F1-score
+ESM2-3B,96.29,G-,AUC
+ESM2-3B,92.98,G-,MCC
+ESM2-3B,96.67,G+,Accuracy
+ESM2-3B,94.96,G+,F1-score
+ESM2-3B,96.3,G+,AUC
+ESM2-3B,92.48,G+,MCC
+ESM2-3B,94.56,AMP global,Accuracy
+ESM2-3B,94.02,AMP global,F1-score
+ESM2-3B,94.54,AMP global,AUC
+ESM2-3B,89.04,AMP global,MCC
+ESM2-3B,84.6569,Toxicity,Accuracy
+ESM2-3B,84.367,Toxicity,F1-score
+ESM2-3B,69.31,Toxicity,MCC
+ESM2-3B,84.66,Toxicity,AUC
+ESM2-3B,87.77,ToxinPred,Accuracy
+ESM2-3B,75.61,ToxinPred,MCC
+ESM2-3B,87.77,ToxinPred,AUC
+ESM3,87.17,AMP global,MCC
+ESM3,93.6,AMP global,AUC
+ESM3,93.77,AMP global,Accuracy
+ESM3,95.92,G+,Accuracy
+ESM3,96.31,G-,Accuracy
+ESM3,82.66,Toxicity,Accuracy
+ESM3,92.93,AMP global,F1-score
+ESM3,90.55,G+,MCC
+ESM3,95.24,G+,AUC
+ESM3,93.65,G+,F1-score
+ESM3,91.66,G-,MCC
+ESM3,95.78,G-,AUC
+ESM3,94.1,G-,F1-score
+ESM3,65.45,Toxicity,MCC
+ESM3,82.41,Toxicity,AUC
+ESM3,81.94,Toxicity,F1-score
+ESM3-ft-epoch5,91.57,AMP global,Accuracy
+ESM3-ft-epoch5,90.23,AMP global,F1-score
+ESM3-ft-epoch5,91.09,AMP global,AUC
+ESM3-ft-epoch5,83.18,AMP global,MCC
+ESM3-ft-epoch5,80.95,Toxicity,Accuracy
+ESM3-ft-epoch5,81.13,Toxicity,F1-score
+ESM3-ft-epoch5,81.03,Toxicity,AUC
+ESM3-ft-epoch5,62.1,Toxicity,MCC
+PTrans,93.01,AMP global,Accuracy
+PTrans,95.6,G+,Accuracy
+PTrans,95.82,G-,Accuracy
+PTrans,81.55,Toxicity,Accuracy
+PTrans,92.16,AMP global,F1-score
+PTrans,93.23,G+,F1-score
+PTrans,93.68,G-,F1-score
+PTrans,80.72,Toxicity,F1-score
+ToxinPred,86.815,Toxicity,Accuracy
+ToxinPred,86.198,Toxicity,F1-score
+ToxinPred,73.643,Toxicity,MCC
+ToxinPred,86.75,Toxicity,AUC
+ToxinPred,82.78,ToxinPred,Accuracy
+ToxinPred,67.07,ToxinPred,MCC
+ToxinPred,82.79,ToxinPred,AUC
+ToxinPred_Deep,87.45,ToxinPred,Accuracy
+ToxinPred_Deep,87.454,ToxinPred,AUC
+ToxinPred_Deep,75.24,ToxinPred,MCC
+ToxinPred_paper,85.31,ToxinPred,Accuracy
+ToxinPred_paper,91.4,ToxinPred,AUC
+ToxinPred_paper,70.79,ToxinPred,MCC
+ESM2-3B-XGB,95.56,AMP global,Accuracy
+ESM2-3B-XGB,95.51,AMP global,AUC
+ESM2-3B-XGB,91.04,AMP global,MCC
+ESM2-3B-XGB,95.1,AMP global,F1-score
+ESM2-3B-XGB,86.97,Toxicity,Accuracy
+ESM2-3B-XGB,86.89,Toxicity,AUC
+ESM2-3B-XGB,73.99,Toxicity,MCC
+ESM2-3B-XGB,86.25,Toxicity,F1-score
+ESM2-XGB,95.13,AMP global,Accuracy
+ESM2-XGB,95.06,AMP global,AUC
+ESM2-XGB,90.16,AMP global,MCC
+ESM2-XGB,94.61,AMP global,F1-score
+ESM2-XGB,87.59,Toxicity,Accuracy
+ESM2-XGB,87.51,Toxicity,AUC
+ESM2-XGB,75.23,Toxicity,MCC
+ESM2-XGB,86.9,Toxicity,F1-score
+PTrans,85.06,AMP global,MCC
+PTrans,88.93,G+,MCC
+PTrans,89.85,G-,MCC
+PTrans,62.26,Toxicity,MCC
+PTrans,92.59,AMP global,Accuracy
+PTrans,95.12,G+,Accuracy
+PTrans,95.49,G-,Accuracy
+PTrans,81.11,Toxicity,Accuracy
+PTrans,91.84,AMP global,F1-score
+PTrans,92.55,G+,F1-score
+PTrans,93.19,G-,F1-score
+PTrans,82.74,Toxicity,F1-score
+PTrans,92.54,AMP global,AUC
+PTrans,94.32,G+,AUC
+PTrans,94.56,G-,AUC
+PTrans,81.02,Toxicity,AUC
+ESM-2 (650m),93.51,AMP global,AUC
+ESM-2 (650m),95.33,G+,AUC
+ESM-2 (650m),95.67,G-,AUC
+ESM-2 (650m),83.32,Toxicity,AUC
+ESM-2 (650m),86.72,AMP global,MCC
+ESM-2 (650m),90.89,G+,MCC
+ESM-2 (650m),91.84,G-,MCC
+ESM-2 (650m),66.66,Toxicity,MCC
+ESM-2 (650m),93.33,AMP global,Accuracy
+ESM-2 (650m),95.98,G+,Accuracy
+ESM-2 (650m),96.37,G-,Accuracy
+ESM-2 (650m),83.35,Toxicity,Accuracy
+ESM-2 (650m),92.83,AMP global,F1-score
+ESM-2 (650m),93.88,G+,F1-score
+ESM-2 (650m),94.54,G-,F1-score
+ESM-2 (650m),82.83,Toxicity,F1-score
+Macrel,1461,AMP global,TP
+Macrel,2996,AMP global,TN
+Macrel,25,AMP global,FP
+Macrel,1039,AMP global,FN
+Macrel,80.73,AMP global,Accuracy
+Macrel,98.32,AMP global,Precision
+Macrel,58.44,AMP global,Recall
+Macrel,73.31,AMP global,F1-score
+Macrel,78.81,AMP global,AUC
+Macrel,64.66,AMP global,MCC
+AMPScaner,2006,AMP global,TP
+AMPScaner,1908,AMP global,TN
+AMPScaner,1113,AMP global,FP
+AMPScaner,494,AMP global,FN
+AMPScaner,70.89,AMP global,Accuracy
+AMPScaner,64.32,AMP global,Precision
+AMPScaner,80.24,AMP global,Recall
+AMPScaner,71.4,AMP global,F1-score
+AMPScaner,71.7,AMP global,AUC
+AMPScaner,43.57,AMP global,MCC
+iAMPpred,2006,AMP global,TP
+iAMPpred,1618,AMP global,TN
+iAMPpred,1403,AMP global,FP
+iAMPpred,494,AMP global,FN
+iAMPpred,65.64,AMP global,Accuracy
+iAMPpred,58.84,AMP global,Precision
+iAMPpred,80.24,AMP global,Recall
+iAMPpred,67.9,AMP global,F1-score
+iAMPpred,66.9,AMP global,AUC
+iAMPpred,34.62,AMP global,MCC
+amPEPpy,1967,AMP global,TP
+amPEPpy,2779,AMP global,TN
+amPEPpy,242,AMP global,FP
+amPEPpy,533,AMP global,FN
+amPEPpy,85.96,AMP global,Accuracy
+amPEPpy,89.04,AMP global,Precision
+amPEPpy,78.68,AMP global,Recall
+amPEPpy,83.54,AMP global,F1-score
+amPEPpy,85.33,AMP global,AUC
+amPEPpy,71.8,AMP global,MCC
+cAMP,85.36,AMP global,Accuracy
+cAMP,83.32,AMP global,F1-score
+cAMP,92.45,AMP global,AUC
+cAMP,70.42,AMP global,MCC
