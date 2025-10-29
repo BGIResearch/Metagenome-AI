@@ -167,7 +167,19 @@ amPEPpy,78.68,AMP global,Recall
 amPEPpy,83.54,AMP global,F1-score
 amPEPpy,85.33,AMP global,AUC
 amPEPpy,71.8,AMP global,MCC
-cAMP,85.36,AMP global,Accuracy
-cAMP,83.32,AMP global,F1-score
-cAMP,92.45,AMP global,AUC
-cAMP,70.42,AMP global,MCC
+cAMP,84.44,AMP global,Accuracy
+cAMP,80.91,AMP global,F1-score
+cAMP,83.44,AMP global,AUC
+cAMP,69.26,AMP global,MCC
+cAMP BERT,85.36,AMP global,Accuracy
+cAMP BERT,83.32,AMP global,F1-score
+cAMP BERT,92.45,AMP global,AUC
+cAMP BERT,70.42,AMP global,MCC
+cAMP Attention,88.17,AMP global,Accuracy
+cAMP Attention,86.69,AMP global,F1-score
+cAMP Attention,94.42,AMP global,AUC
+cAMP Attention,76.10,AMP global,MCC
+cAMP LSTM,70.64,AMP global,Accuracy
+cAMP LSTM,72.83,AMP global,F1-score
+cAMP LSTM,81.22,AMP global,AUC
+cAMP LSTM,45.40,AMP global,MCC
