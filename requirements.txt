@@ -1,15 +1,44 @@
+# Core Deep Learning Frameworks
 torch==2.2.2
 torchvision==0.17.2
 torcheval
-scikit-learn
 pytorch-lightning
-datasets
-pandas
-matplotlib
-wandb
+
+# Transformers and Language Models
 transformers
-xgboost
-h5py
-faiss-gpu
 fair-esm
 sentencepiece
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Data Processing
+pandas
+numpy
+datasets
+h5py
+pickle5
+
+# Experiment Tracking and Logging
+wandb
+
+# Visualization
+matplotlib
+seaborn
+
+# GPU Acceleration (choose one based on your setup)
+faiss-gpu  # For GPU support
+# faiss-cpu  # Uncomment for CPU-only systems
+
+# Bioinformatics
+biopython
+
+# Additional Utilities
+tqdm
+peft  # For LoRA fine-tuning
+huggingface-hub
+
+# Optional: For notebook support
+jupyter
+ipykernel
