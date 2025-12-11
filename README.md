@@ -249,19 +249,6 @@ Metagenome-AI/
 └── README.md                      # This file
 ```
 
-## Citation
-
-If you use Metagenome-AI in your research, please cite:
-
-```bibtex
-@software{metagenome_ai,
-  title={Metagenome-AI: A Framework for Protein Classification using Large Language Models},
-  author={Milicevic, Nikola and Kovacevic, Vladimir},
-  year={2024},
-  url={https://github.com/yourusername/Metagenome-AI}
-}
-```
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -270,11 +257,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, suggestions, or issues:
 
-- **Create an issue**: [GitHub Issues](https://github.com/yourusername/Metagenome-AI/issues)
-- **Email**: vladimirkovacevic@genomics.cn
+- **Create an issue**: [GitHub Issues](https://github.com/BGIResearch/Metagenome-AI/issues)
+- **Email**: vladimir.kovacevic@etf.rs
 
 ---
 
-**Developed at**: BGI Genomics
+**Developed at**: BGI Research
 
 **Contributors**: Nikola Milicevic, Vladimir Kovacevic
